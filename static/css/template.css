@@ -70,7 +70,7 @@ body {
 #header {
 	margin-top:100px;
 	margin-bottom:150px;
-	float: left;
+	
 }
 
 .header_content_mainline {
@@ -90,20 +90,23 @@ body {
 	font-size:35px;
 	color:#FFFFFF;
 	font-style: italic;
+	padding-left: 50px;
 }
 #header_content_boxline_picters{
-            background-image: url(../images/summer.jpg);
-	    font-size: 35px;
+        background-image: url(../images/summer.jpg);
+        margin-left: 50px;
         color: #fff;
-	width:50%;
-        padding-bottom: 50px;
+        width: 50%;
+        height: 400px;
 	}
 #header_content_boxcontent {
 	font-size: 22px;
 	font-style: italic;
+	color: #fff;
 }
 a.button19 {
   display: inline-block;
+  margin-top: 30px;
   font-weight: bold;
   color: #fff;
   text-decoration: none;
@@ -136,9 +139,9 @@ a.button19 {
 }
 
 #header_content_lowerboxcontent {
-	font-size:12px;
+	font-size:22px;
 	color:#CCCCCC;
-	width:400px;
+	
 }
 
 #header_content_tagline {
