@@ -82,6 +82,7 @@ body {
 #header_content_boxline {
 	font-size: 35px;
         color: #fff;
+	width:50%;
         padding-bottom: 50px;
 }
 
@@ -90,9 +91,12 @@ body {
 	color:#FFFFFF;
 	font-style: italic;
 }
-#header_content_boxline picters{
-background-image: url(../images/summer.jpg);
-	    padding: 0 30px;
+#header_content_boxline_picters{
+            background-image: url(../images/summer.jpg);
+	    font-size: 35px;
+        color: #fff;
+	width:50%;
+        padding-bottom: 50px;
 	}
 #header_content_boxcontent {
 	font-size: 22px;
